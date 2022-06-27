@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5df4d58b-20ac-4221-8189-9ce2803b5738" name="Changes" comment="veamos si hago push" />
+    <list default="true" id="5df4d58b-20ac-4221-8189-9ce2803b5738" name="Changes" comment="Merge branch 'main' into rama-dos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="rama-dos" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -100,7 +100,28 @@
       <option name="project" value="LOCAL" />
       <updated>1656316146404</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="veamos si hago push">
+      <created>1656316559865</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656316559865</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge branch 'main' into rama-dos">
+      <created>1656316682397</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1656316682397</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge branch 'main' into rama-dos">
+      <created>1656316741833</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1656316741833</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,19 +132,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="main" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -133,6 +142,7 @@
     <MESSAGE value="Agregue la estructura del proyecto" />
     <MESSAGE value="me pide commit para un monton de archivos que hacer" />
     <MESSAGE value="veamos si hago push" />
-    <option name="LAST_COMMIT_MESSAGE" value="veamos si hago push" />
+    <MESSAGE value="Merge branch 'main' into rama-dos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'main' into rama-dos" />
   </component>
 </project>
