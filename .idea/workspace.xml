@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2169dce7-4850-471e-9367-be6eeedc2ee5" name="Changes" comment="me pide commit para un monton de archivos que hacer">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +12,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="rama-dos" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,7 +48,7 @@
       <workItem from="1656218106142" duration="2144000" />
       <workItem from="1656258421043" duration="10000" />
       <workItem from="1656313231475" duration="155000" />
-      <workItem from="1656313757457" duration="294000" />
+      <workItem from="1656313757457" duration="1140000" />
     </task>
     <task id="LOCAL-00001" summary="Agregue la estructura del proyecto">
       <created>1656131274624</created>
@@ -65,7 +64,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656313970189</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="me pide commit para un monton de archivos que hacer">
+      <created>1656314199644</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656314199644</updated>
+    </task>
+    <task id="LOCAL-00004" summary="me pide commit para un monton de archivos que hacer">
+      <created>1656314262895</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656314262895</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
