@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2169dce7-4850-471e-9367-be6eeedc2ee5" name="Changes" comment="me pide commit para un monton de archivos que hacer">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2169dce7-4850-471e-9367-be6eeedc2ee5" name="Changes" comment="veamos si hago push" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="main" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -48,7 +49,7 @@
       <workItem from="1656218106142" duration="2144000" />
       <workItem from="1656258421043" duration="10000" />
       <workItem from="1656313231475" duration="155000" />
-      <workItem from="1656313757457" duration="1140000" />
+      <workItem from="1656313757457" duration="1538000" />
     </task>
     <task id="LOCAL-00001" summary="Agregue la estructura del proyecto">
       <created>1656131274624</created>
@@ -78,7 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656314262895</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="me pide commit para un monton de archivos que hacer">
+      <created>1656315054537</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656315054537</updated>
+    </task>
+    <task id="LOCAL-00006" summary="veamos si hago push">
+      <created>1656315266336</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656315266336</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +125,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Agregue la estructura del proyecto" />
     <MESSAGE value="me pide commit para un monton de archivos que hacer" />
-    <option name="LAST_COMMIT_MESSAGE" value="me pide commit para un monton de archivos que hacer" />
+    <MESSAGE value="veamos si hago push" />
+    <option name="LAST_COMMIT_MESSAGE" value="veamos si hago push" />
   </component>
 </project>
